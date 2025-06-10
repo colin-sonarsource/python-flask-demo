@@ -1,7 +1,7 @@
 # Storyboard
 
 The goal of this demo is to show the analysis of a Python application in SonarCloud.
-We want to showcase how to apply the "Clean As You Code" methodology in practice.
+We want to showcase how to apply the "Clean As You Code" methodology in practices.
 
 We start with a Flask application that represents a legacy project which we want to analyze.
 This Flask application contains a "main" branch with the existing code. 
